@@ -1,5 +1,6 @@
 {
     "builds": {
+        "src": "ui/Companion.py",
         "use": "@vercel/python"
     }
 }
